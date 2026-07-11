@@ -4,4 +4,4 @@ Snow Platform
 
 ---
 
-![Sample](../images/105290772_p0.jpg)
+![Sample](../images/105290772_p0(1).jpg)
